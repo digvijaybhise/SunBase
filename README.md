@@ -11,8 +11,8 @@
 </a>
 </p>
 Our Spring-based API simplifies user data management. It enables users to easily perform Create, Read, Update, and Delete operations while incorporating essential login validations for a secure and efficient experience.
+
 ---
-<br>
 
 ## Framework Used
 * Spring Boot
